@@ -11,4 +11,5 @@ body {
 #container {
   width: 360px;
   height: 712px;
+  margin: auto;
 }
