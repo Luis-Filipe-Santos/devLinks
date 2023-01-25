@@ -20,7 +20,7 @@ body * {
 
 #container {
   width: 360px;
-  margin: 56px auto 0px;  
+  margin: 56px auto 0px;
 }
 
 #profile {
@@ -37,4 +37,12 @@ body * {
   font-size: 16px;
   line-height: 24px;
   margin-top: 8px;
+}
+/* Links */
+ul {
+  list-style: none;
+
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
 }
